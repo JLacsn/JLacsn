@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JLacsn
+- 👋 Hi, I’m @JaLacson
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Bootstrap, Javascript & Python
 - 📫 How to reach me ...@ jalacson@yahoo.com
